@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Rares Mateizer, I am a software developer from Romania.
+My name is Rares Mateizer, I am a software developer from Romania.
 
 
 
