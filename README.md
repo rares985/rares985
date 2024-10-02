@@ -8,7 +8,6 @@ I am currently challenging myself with improving my algorithmic skills on Leetco
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raresmateizer?theme=light&font=Carme)
 
-- Writer @ [Legible Tech](https://legible.tech/)
 - Founder @ [Imbra](https://imbrasoftware.com/)
 
 
